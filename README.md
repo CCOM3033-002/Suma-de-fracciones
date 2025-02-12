@@ -4,8 +4,10 @@ Este laboratorio tiene un valor de 15 puntos. La fecha de entrega está en moodl
 
 ## Antes de comenzar
 
-La fórmula para sumar las fracciones  $\frac{a}{b}$  y  $\frac{c}{d}$  es  
-$\frac{a}{b}+\frac{c}{d} = \frac{ad+bc}{bd}$.
+La fórmula para sumar las fracciones $\frac{a}{b}$ y $\frac{c}{d}$ es 
+$$
+\frac{a}{b}+\frac{c}{d} = \frac{ad+bc}{bd}.
+$$
 
 ## Instrucciones
 
@@ -17,7 +19,7 @@ Escriba un programa que le pida al usuario los numeradores y denominadores de do
 Este programa suma dos fracciones.
 Entre el numerador de la 1ra fracción: 1
 Entre el denominador de la 1ra fracción: 3
-Entre el numeradot de la 2da fracción: 2
+Entre el numerador de la 2da fracción: 2
 Entre el denominador de la 2da fracción: 5
 La suma es 11/15.
 ```
@@ -43,7 +45,7 @@ Su programa debe:
   - Desplegar el resultado como una fracción (no tiene que estar simplificada) (2 pts)
 - Desplegar el propósito del mismo, no tiene que ser igual el del ejemplo pero debe estar claro para el usuario el propósito (2 pts)
 - Tener nombres apropiados para las variables (1 pt)
-- Debe estar debidamente comentado e indentado de manera que su código sea legible (2 pts)
+- Debe estar debidamente comentado e indentado de manera que su código sea legible y debe contener un *header* con su información y colaboraciones en un comentario (2 pts)
 - Asegurar que los literales que se asignan a variables sean del mismo tipo de dato (1 pt)
 - Si su programa no corre o se interrumpe, perderá la mitad de los puntos
-- Utilice solamente los conceptos discutidos en la clase
+- Solamente utilice conceptos discutidos en clase, de otro modo perderá 1/3 de los puntos
